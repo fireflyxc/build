@@ -9,7 +9,7 @@ BOOT_FDT_FILE="rockchip/rk3576-nanopi-r76s.dtb"
 BOOT_SCENARIO="spl-blobs"
 SERIALCON="ttyS0"
 IMAGE_PARTITION_TABLE="gpt"
-BOARD_MAINTAINER="SuperKali"
+BOARD_MAINTAINER=""
 
 
 function post_family_tweaks__nanopi-r76s_naming_audios() {
